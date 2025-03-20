@@ -1,0 +1,57 @@
+header{
+    padding: 10px;
+    background-color: rgb(172, 12, 236);
+    color:rgb(108, 57, 124);
+    text-align:right;
+}
+nav {
+    padding: 5px;
+    background-color: rgb(2, 31, 2);
+}
+nav ul{
+    text-align:center;
+    font-size:1.2em;
+}
+nav ul li{
+    list-style-type:none;
+    background-color:lightgray;
+    display:inline;
+    padding:15px;
+    margin:5px;
+    border:2px solid black;
+    border-radius:10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover
+{background-color: rgb(195, 14, 219);}
+.PictureSpacing{
+    letter-spacing: 10px;
+}
+main{
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+footer {
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(2, 31, 2);
+}
+footer p{
+    text-align:center;
+    color: white;
+}
+
+.myclass{
+    background-color: rgb(220, 220, 220);
+}
+
+#currentpage{ 
+    border:2px dotted;
+}
