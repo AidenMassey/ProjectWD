@@ -33,7 +33,15 @@ nav ul li:hover
 main{
     padding-left: 200px;
     padding-right: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+aside{
+    width: 25%;
+    padding: 15px;
+    margin-left: 25px;
+    float: right;
+    font-style: italic;
 }
 footer {
     padding: 0;
